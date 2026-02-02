@@ -45,6 +45,10 @@ public class Agenda {
     }
 
     //Usado para testar os valores do seu objeto (toString)
+    //Ja existe uma versao default do toString na classe Object
+    //Esse override substitui a versao default
+    //Assim, quando voce tentar imprimir um objeto da classe Agenda
+    //o Java vai usar esse metodo para gerar a String que representa o objeto
     @Override
     public String toString() {
         String temp = "Contatos: ";
