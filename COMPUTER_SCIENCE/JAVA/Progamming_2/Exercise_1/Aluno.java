@@ -1,10 +1,10 @@
 package COMPUTER_SCIENCE.JAVA.Progamming_2.Exercise_1;
 
 public class Aluno {
-    private String nome;
-    private double nota;
+    //private String nome;
+    //private double nota;
 
-    public Aluno(String nome, double nota) {
+    /*public Aluno(String nome, double nota) {
         this.nome = nome;
         if(nota < 0 || nota > 10) {
             System.out.println("Nota inválida. Deve estar entre 0 e 10.");
@@ -12,5 +12,5 @@ public class Aluno {
         } else {
             this.nota = nota;
         }
-    }
+    }*/
 }

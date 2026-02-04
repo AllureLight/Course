@@ -12,7 +12,7 @@ public class TestaAgenda {
         a.inserirContato(new Contato("Bruno","12345"));
         a.inserirContato(new Contato("Ana","54321"));
 
-        //System.out.println(a);
+        System.out.println(a);
 
         a.removerContato("Ana");
 

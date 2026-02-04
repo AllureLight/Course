@@ -1,7 +1,7 @@
 package COMPUTER_SCIENCE.JAVA.Progamming_2.Exercise_1;
 
 public class Produto {
-    private String nome;
+    /*private String nome;
     private double preco;
 
     public void setPreco(double preco) {
@@ -10,5 +10,5 @@ public class Produto {
         } else {
             this.preco = preco;
         }
-    }
+    }*/
 }

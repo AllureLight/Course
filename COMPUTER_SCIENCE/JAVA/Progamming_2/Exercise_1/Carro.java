@@ -1,7 +1,7 @@
 package COMPUTER_SCIENCE.JAVA.Progamming_2.Exercise_1;
 
 public class Carro {
-    private String marca;
+    /*private String marca;
     private String modelo;
     private int ano;
 
@@ -12,5 +12,5 @@ public class Carro {
         this.marca = marca;
         this.modelo = modelo;
         this.ano = ano;
-    }
+    }*/
 }
