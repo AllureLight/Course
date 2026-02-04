@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.EXTRA;
+package COMPUTER_SCIENCE.JAVA.Progamming_2.Extra_JFrame;
 
 import javax.swing.JFrame;
 import javax.swing.JButton;
