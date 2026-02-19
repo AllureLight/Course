@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_0;
+package Progamming_2.Lessons.Class_0;
 
 public class Relogio {
     //variaveis de instancia

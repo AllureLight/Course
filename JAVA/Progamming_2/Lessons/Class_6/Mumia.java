@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_6;
+package Progamming_2.Lessons.Class_6;
 
 public class Mumia extends Monster {
     public void scare(int n) {

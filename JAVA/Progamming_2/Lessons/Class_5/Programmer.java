@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_5;
+package Progamming_2.Lessons.Class_5;
 
 public class Programmer extends Employeed{
     private String programmingLanguage;

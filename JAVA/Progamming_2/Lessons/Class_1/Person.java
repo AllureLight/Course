@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_1;
+package Progamming_2.Lessons.Class_1;
 
 public class Person {
     private String name;

@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_2;
+package Progamming_2.Lessons.Class_2;
 
 public class Person {
     static int NumberOfPeople = 0;
