@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Exemplo2_Interface;
+package Progamming_2.Lessons.Exemplo2_Interface;
 
 public class SmsNotificacao implements Notificacao {
     @Override

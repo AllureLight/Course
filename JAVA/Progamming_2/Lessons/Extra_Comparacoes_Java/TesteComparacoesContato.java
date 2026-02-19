@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Extra_Comparacoes_Java;
+package Progamming_2.Lessons.Extra_Comparacoes_Java;
 
 import java.util.ArrayList;
 import java.util.Collections;

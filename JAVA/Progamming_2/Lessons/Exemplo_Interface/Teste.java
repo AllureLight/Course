@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Exemplo_Interface;
+package Progamming_2.Lessons.Exemplo_Interface;
 
 public class Teste {
     /*public static void main(String[] args) {

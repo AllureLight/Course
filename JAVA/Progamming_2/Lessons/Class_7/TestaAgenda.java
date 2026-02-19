@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_7;
+package Progamming_2.Lessons.Class_7;
 
 public class TestaAgenda {
     public static void main(String[] args) {

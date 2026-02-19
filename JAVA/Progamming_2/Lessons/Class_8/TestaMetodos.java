@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Lessons.Class_8;
+package Progamming_2.Lessons.Class_8;
 
 public class TestaMetodos {
     public static void imprimeArray(String[] meuArray) {
