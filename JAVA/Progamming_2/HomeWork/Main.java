@@ -39,7 +39,7 @@ public class Main {
         trabalho.setLocationRelativeTo(null); //configura a janela para abrir no meio da tela
         
         //Colacar icone no programa
-        ImageIcon imagemIcone = new ImageIcon("COMPUTER_SCIENCE/JAVA/Progamming_2/HomeWork/Icone.jpeg");
+        ImageIcon imagemIcone = new ImageIcon("JAVA/Progamming_2/HomeWork/Icone.jpeg");
         trabalho.setIconImage(imagemIcone.getImage());
         
         //Criando Titulo 
@@ -145,7 +145,7 @@ public class Main {
 
 
         //Criando a Imagem de Fundo
-        PainelFundo imagemFundo = new PainelFundo("COMPUTER_SCIENCE/JAVA/Progamming_2/HomeWork/Fundo.jpeg");
+        PainelFundo imagemFundo = new PainelFundo("JAVA/Progamming_2/HomeWork/Fundo.jpeg");
         //Adicionando o Painel que contem todos os outros na imagem de Fundo
         imagemFundo.add(painelOrganizador);
         //Adicionando a imagem de Fundo na janela do trabalho
