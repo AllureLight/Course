@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.HomeWork;
+package Progamming_2.HomeWork;
 
 //Importacoes do java awt
 import java.awt.BorderLayout;

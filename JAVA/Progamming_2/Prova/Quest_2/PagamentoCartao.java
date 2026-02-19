@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Prova.Quest_2;
+package Progamming_2.Prova.Quest_2;
 
 public class PagamentoCartao implements Pagamento{
     @Override

@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Prova.Quest_1;
+package Progamming_2.Prova.Quest_1;
 
 public class Moto extends Veiculos{
     public Moto(String marca, String modelo, int ano){

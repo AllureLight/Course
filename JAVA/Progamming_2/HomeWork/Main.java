@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.HomeWork;
+package Progamming_2.HomeWork;
 
 //Aluno: Guilherme Andrade Nascimento Medeiros
 //Aluna: Ayssa Hadassa de Paiva Amorim

@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Prova.Quest_3;
+package Progamming_2.Prova.Quest_3;
 
 public class Livro implements Comparable<Livro>{
     private String titulo;

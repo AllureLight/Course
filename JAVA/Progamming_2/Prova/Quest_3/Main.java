@@ -1,4 +1,4 @@
-package COMPUTER_SCIENCE.JAVA.Progamming_2.Prova.Quest_3;
+package Progamming_2.Prova.Quest_3;
 
 import java.util.ArrayList;
 import java.util.Collections;
